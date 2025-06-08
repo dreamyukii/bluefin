@@ -77,6 +77,20 @@ sections:
       - com.feaneron.Boatswain
       - com.valvesoftware.SteamLink
       - com.parsecgaming.parsec
+  - title: "Bluefin Recommends"
+    subtitle: "Contributor's Favorite Applications"
+    rows: 2
+    banner: file:///usr/share/ublue-os/bazaar/streaming.png
+    banner-fit: cover
+    banner-text-halign: end
+    banner-text-valign: start
+    banner-height: 500
+    classes:
+      - bazzite-section
+    appids:
+      - io.github.pleromix.IceBox
+      - io.github.realmazharhussain.GdmSettings
+      - io.github.nozwock.Packet
   - title: "Music & Media"
     subtitle: "Let me break it down for you."
     rows: 2
@@ -138,3 +152,21 @@ sections:
       - org.fedoraproject.MediaWriter
       - org.raspberrypi.rpi-imager
       - cc.arduino.IDE2
+  - title: "Developers"
+    subtitle: "Unleash the power of cloud native development"
+    rows: 2
+    banner: file:///usr/share/ublue-os/bazaar/streaming.png
+    banner-fit: cover
+    banner-text-halign: end
+    banner-text-valign: start
+    banner-height: 500
+    classes:
+      - bazzite-section
+    appids:
+      - io.podman_desktop.PodmanDesktop
+      - com.getpostman.Postman
+      - io.dbeaver.DBeaverCommunity
+      - org.gnome.Builder
+      - io.kinvolk.Headlamp
+      - com.github.marhkb.Pods
+      - sh.loft.devpod
